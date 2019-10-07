@@ -3,13 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.4.3",
     "@types/jest": "24.0.18",
     "@types/node": "12.7.8",
     "@types/react": "16.9.3",
     "@types/react-dom": "16.9.1",
+    "@types/styled-components": "^4.1.19",
+    "axios": "^0.19.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-floaterjs": "^1.0.6",
     "react-scripts": "3.1.2",
+    "styled-components": "^4.4.0",
     "typescript": "3.6.3"
   },
   "scripts": {
